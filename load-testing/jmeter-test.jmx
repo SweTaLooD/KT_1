@@ -1,0 +1,10 @@
+<testPlan>
+  <ThreadGroup>
+    <num_threads>1000</num_threads>
+    <ramp_time>60</ramp_time>
+    <duration>600</duration>
+  </ThreadGroup>
+  <httpRequest>
+    <url>http://app.example.com</url>
+  </httpRequest>
+</testPlan>
